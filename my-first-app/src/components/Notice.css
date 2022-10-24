@@ -1,0 +1,22 @@
+.notice-app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.notice {
+  font-size: 14px;
+  text-align: left;
+  margin: 15px;
+}
+
+.notice p {
+  font-size: 12px;
+}
+
+.notice h4,
+.notice p {
+  max-width: 213px;
+  margin: 10px 0px;
+}

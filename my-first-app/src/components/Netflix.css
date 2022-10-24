@@ -1,0 +1,13 @@
+.netflix-app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+
+  background-color: black;
+  padding: 25px;
+}
+
+.netflix img {
+  margin: 5px;
+}
